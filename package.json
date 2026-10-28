@@ -1,0 +1,23 @@
+{
+  "name": "grpc-encode",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ZifRoot/grpc-encode#readme",
+  "bugs": {
+    "url": "https://github.com/ZifRoot/grpc-encode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZifRoot/grpc-encode.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "protobufjs": "^8.8.1"
+  }
+}
